@@ -1,5 +1,4 @@
-import logo from '../../assets/img/notification-icon.svg'
-
+import logo from '../../assets/img/logo.svg'
 import './style.css '
 
 function Header() {

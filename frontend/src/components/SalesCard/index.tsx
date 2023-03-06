@@ -91,7 +91,7 @@ function SalesCard() {
         </table>
       </div>
     </div>
-  );
+  )
 }
 
 export default SalesCard;
